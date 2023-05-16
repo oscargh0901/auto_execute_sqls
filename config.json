@@ -1,4 +1,4 @@
 {
-    "ruta": "C:/Users/ogh/Documents/Base de Datos",
-    "conexion": "Driver={SQL Server};Server=OscarGS;Database=GSnuevo;Trusted_Connection=yes;"
-  }  
+  "ruta": "C:/Users/ogh/Documents/Base de Datos",
+  "conexion": "Driver={SQL Server};Server=OscarGS;Database=GSnuevo;Trusted_Connection=yes;"
+}  
